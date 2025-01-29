@@ -1,2 +1,3 @@
-###pip install playwright
-###python -m playwright install
+pip install playwright
+
+python -m playwright install
